@@ -41,7 +41,7 @@
 > A frontend web application using HTML, CSS & JavaScript.  
 > Designed to simulate modern food ordering UI/UX.
 
-🔗 [View Project on GitHub](https://github.com/DeepakVishwakarma/FOODIS)
+🔗 [View Project on GitHub]([https://github.com/DeepakVishwakarma/FOODIS](https://github.com/users/Imdpkk/projects/1))
 
 ---
 
