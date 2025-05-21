@@ -1,63 +1,72 @@
-# 👋 Hello, I'm Deepak Vishwakarma!
+<!-- 🖼️ Banner at the top -->
+<p align="center">
+  <img src="https://github.com/DeepakVishwakarma/DeepakVishwakarma/blob/main/banner.png" alt="Deepak Vishwakarma Banner" />
+</p>
 
-🎓 Software Engineering Student | 📊 Future Data Analyst  
-💻 Web Developer | ☁️ Google Cloud Enthusiast | 🎓 GCP Facilitator Program Participant
+<h1 align="center">Hi 👋, I'm Deepak Vishwakarma</h1>
 
----
-
-### 🌟 About Me
-
-- 🔭 I’m working towards becoming a **Data Analyst** skilled in Python & real-world data
-- 💻 Completed several **Web Development** projects including my project **FOODIS**
-- ☁️ Currently learning **Cloud Computing** through the **Google Cloud Facilitator Program**
-- 📚 Actively developing skills in **GCP, SQL, Pandas, NumPy, and data visualization**
-- 🧠 CS50x certified – *Introduction to Computer Science* by Harvard
+<p align="center">
+  🎓 Software Engineering Student | 📊 Future Data Analyst <br>
+  💻 Web Developer | ☁️ Google Cloud Enthusiast | 🚀 GCP Facilitator Program Participant
+</p>
 
 ---
 
-### 🚀 Current Goals
+## ✨ About Me
 
-- 📊 Build strong skills in **Data Analysis** (Python, Excel, SQL, Power BI, Tableau)
-- ☁️ Achieve certifications in **Google Cloud**
-- 💡 Contribute to open-source beginner-friendly data or cloud projects
-- 🧪 Continue exploring **DBMS, APIs, and backend logic**
-
----
-
-### 🛠️ Tech Skills
-
-- **Programming:** Python, Java, JavaScript
-- **Web Development:** HTML, CSS, JavaScript
-- **Database:** SQL, MySQL
-- **Data Tools:** Pandas, NumPy, Excel
-- **Cloud:** Google Cloud Platform (GCP)
-- **Other Tools:** Git, GitHub, VS Code
+- 🎯 Aspiring **Data Analyst** with a passion for turning data into insights
+- 💻 Built **FOODIS** – an online food delivery website using HTML, CSS & JavaScript
+- ☁️ Learning **Cloud Computing** with **Google Cloud Platform (GCP)**
+- 👨‍🏫 Active participant in the **Google Cloud Facilitator Program**
+- 🎓 Certified in **CS50x – Introduction to Computer Science by Harvard**
+- 🔍 Love working with **Python, SQL, Pandas, and Visualization Tools**
 
 ---
 
-### 🧩 Featured Project
+## 🛠️ Tech Skills
 
-#### 🍔 FOODIS - Online Food Delivery Website
-> A frontend web application using HTML, CSS & JavaScript.  
-> Designed to simulate modern food ordering UI/UX.
-
-🔗 [View Project on GitHub]([https://github.com/DeepakVishwakarma/FOODIS](https://github.com/users/Imdpkk/projects/1))
 
 ---
 
-### 📊 GitHub Stats
+## 💼 Featured Project
 
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakVishwakarma&show_icons=true&theme=radical)
+### 🍔 FOODIS – Online Food Delivery Website
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVishwakarma&layout=compact&theme=radical)
+> A simple and clean frontend food delivery site using **HTML, CSS, JavaScript**  
+> 🔗 [View Project on GitHub](https://github.com/DeepakVishwakarma/FOODIS)
 
----
-
-### 🤝 Let’s Connect
-
-[LinkedIn](https://www.linkedin.com/in/deepak-vishwakarma-846ba1269/)
-[Email](mailto:deepvishwakarma.2114@gmail.com)
+📷 _Screenshot Preview (optional)_  
+_Add an image of the site if you like!_
 
 ---
 
-*Thanks for visiting my profile! Let's grow together and build impactful tech solutions 🚀*
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepakVishwakarma&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVishwakarma&layout=compact&theme=radical" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakVishwakarma&theme=radical" />
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="mailto:deepakv.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🌟 Thanks for visiting my GitHub! Let’s build cool things and grow together 💡<br>
+  🚀 Keep Learning. Keep Building.
+</p>
