@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner at the top -->
 <p align="center">
-  <img src="https://github.com/DeepakVishwakarma/DeepakVishwakarma/blob/main/banner.png" alt="Deepak Vishwakarma Banner" />
+  <img [src="https://github.com/DeepakVishwakarma/DeepakVishwakarma/blob/main/banner.png](https://img.freepik.com/premium-photo/cute-3d-style-chibi-programmer-glasses-perched-their-nose-leaning-back-their-chair_1118790-220.jpg?semt=ais_hybrid&w=740)" alt="Deepak Vishwakarma Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepak Vishwakarma</h1>
@@ -33,7 +33,7 @@
 ### 🍔 FOODIS – Online Food Delivery Website
 
 > A simple and clean frontend food delivery site using **HTML, CSS, JavaScript**  
-> 🔗 [View Project on GitHub](https://github.com/DeepakVishwakarma/FOODIS)
+> 🔗 [View Project on GitHub](https://github.com/Imdpkk/FOODIS)
 
 📷 _Screenshot Preview (optional)_  
 _Add an image of the site if you like!_
@@ -56,11 +56,11 @@ _Add an image of the site if you like!_
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:deepakv.email@example.com">
+  <a href="mailto:deepvishwakarma.2114@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="[https://www.linkedin.com/in/deepak-vishwakarma-846ba1269/)"/>
   </a>
 </p>
 
