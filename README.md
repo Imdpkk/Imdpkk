@@ -1,8 +1,3 @@
-<!-- 🖼️ Banner at the top -->
-<p align="center">
-  <img src="https://stock.adobe.com/in/images/programming-code-on-computer-laptop-screen-modern-icon-flat-graphic-illustration-developer-person-typing-on-table-cartoon-coder-programmer-image-clipart/824719896" alt="Deepak Vishwakarma Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Deepak Vishwakarma</h1>
 
 <p align="center">
