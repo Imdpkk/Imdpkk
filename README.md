@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Software Engineering Student | 💻 Full Stack Python Developer <br>
-  ☁️ Cloud Computing Enthusiast | 🚀 GCP Facilitator Program Participant
+  ☁️ Cloud Computing Enthusiast (GCP | AWS | Azure) | 🚀 GCP Facilitator Program Participant
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## ✨ About Me
 
 - 💻 Aspiring **Full Stack Python Developer** passionate about building web applications  
-- ☁️ Exploring **Cloud Computing** with **Google Cloud Platform (GCP)**  
+- ☁️ Exploring **Cloud Computing** with **Google Cloud Platform (GCP), Microsoft Azure, and AWS**  
 - 👨‍🏫 Active participant in the **Google Cloud Facilitator Program**  
 - 🎓 Certified in **CS50x – Introduction to Computer Science by Harvard**  
 - 🌍 Interested in developing scalable applications and deploying them on the cloud  
@@ -31,6 +31,8 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=flat&logo=plotly&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -52,7 +54,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepakVishwakarma&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVishwakarma&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVishwakarma&layout=compact&theme=radical&hide=php" height="150" />
 </p>
 
 <p align="center">
