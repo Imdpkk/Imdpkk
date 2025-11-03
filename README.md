@@ -1,3 +1,8 @@
+<!-- 🖼️ Banner Section -->
+<p align="center">
+  <img src="https://github.com/Imdpkk/Imdpkk/blob/main/devopass.gif?raw=true" alt="Deepak Vishwakarma Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Deepak Vishwakarma</h1>
 
 <p align="center">
@@ -53,16 +58,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeepakVishwakarma&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakVishwakarma&layout=compact&theme=radical&hide=php" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imdpkk&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imdpkk&layout=compact&theme=radical&hide=php" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakVishwakarma&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imdpkk&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DeepakVishwakarma&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Imdpkk&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
