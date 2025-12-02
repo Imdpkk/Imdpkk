@@ -6,88 +6,88 @@
 <h1 align="center">Hi 👋, I'm Deepak Vishwakarma</h1>
 
 <p align="center">
-  🎓 Software Engineering Student | 💻 Full Stack Python Developer <br>
-  ☁️ Cloud Computing Enthusiast (GCP | AWS | Azure) | 🚀 GCP Facilitator Program Participant
+  B.Tech CSE Student | Python Developer | Cloud & Data Engineering Learner  
+  AWS | Azure | GCP | Django | SQL
 </p>
 
 ---
 
 ## ✨ About Me
 
-- 💻 Aspiring **Full Stack Python Developer** passionate about building web applications  
-- ☁️ Exploring **Cloud Computing** with **Google Cloud Platform (GCP), Microsoft Azure, and AWS**  
-- 👨‍🏫 Active participant in the **Google Cloud Facilitator Program**  
-- 🎓 Certified in **CS50x – Introduction to Computer Science by Harvard**  
-- 🌍 Interested in developing scalable applications and deploying them on the cloud  
-- 🔍 Skilled in **Python, Django, SQL, Web Development, and Cloud Services**  
+- 📌 Focused on **Backend Development, Cloud Fundamentals & Data Engineering basics**  
+- ⚡ Skilled in **Python, SQL, Django, REST APIs, and Cloud Services**  
+- ☁️ Learning **AWS, Azure, and GCP** with hands-on mini projects  
+- 📚 Completed **Harvard CS50x**  
+- 🚀 Passionate about building small, meaningful projects that solve real problems  
+- 🤝 Open to internships, cloud projects, backend roles, and collaborations  
 
 ---
 
-## 🛠️ Tech Skills
+## 🛠️ Core Skills
 
-**Languages:** Python, Java, JavaScript, SQL  
-**Frameworks:** Django, Node.js, React  
-**Databases:** MySQL, PostgreSQL  
-**Cloud & DevOps:** GCP, AWS, Azure, Docker, CI/CD  
-**Tools:** Git, VS Code, GitHub, Postman
+### 🔹 Programming & Backend
+- Python, SQL, Java (Basic)  
+- Django, REST APIs, JSON Handling  
 
----
+### 🔹 Databases
+- MySQL, PostgreSQL  
+- SQLite (for prototypes)
 
-### 🌗 Adaptive (Dark/Light Mode) Badges
+### 🔹 Cloud & DevOps
+- AWS (EC2, S3)  
+- Azure Fundamentals  
+- GCP (Facilitator Program)  
+- Docker (Basics), Git, GitHub  
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
-    <img alt="Python Badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </picture>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" />
-</p>
+### 🔹 Web Basics
+- HTML, CSS, JavaScript  
+- Starting React (Beginner Roadmap)
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 🍔 FOODIS – Online Food Delivery Website
-> A simple and clean frontend food delivery site using **HTML, CSS, JavaScript**  
-🔗 [View Project on GitHub](https://github.com/Imdpkk/FOODIS)  
+### 🧑‍🤝‍🧑 **Real-Time Face Recognition Attendance System**
+> Automated attendance using **Python, Django, and OpenCV**  
+> • Real-time face detection using Haar Cascade + encodings  
+> • Admin panel for attendance logs and reporting  
+> • Cloud-ready: EC2 deployable, S3 storage for reports  
+> **Tech:** Python, Django, OpenCV, NumPy, MySQL  
+🔗 *(Code will be updated on GitHub soon)*
 
-### 📚 EduMate – Student Learning Platform (Django)
-> A student-friendly portal built using **Django & Cloud Concepts**  
-🔗 [View Project on GitHub](https://github.com/Imdpkk/EduMate)
+---
+
+### 🎓 **EduTracker – CLI Learning Management System**
+> CLI-based LMS built with Python  
+> • Multi-user system: Students & Admin  
+> • JSON-based data storage with error handling  
+> • Modular backend structure  
+> **Tech:** Python, JSON, CLI Automation  
+🔗 https://github.com/Imdpkk/EduMate
+
+---
+
+### 🍔 **FOODIS – Online Food Delivery Frontend**
+> Simple and clean frontend UI for food ordering system  
+> **Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/Imdpkk/FOODIS
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imdpkk&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imdpkk&layout=compact&theme=radical&hide=php" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Imdpkk&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imdpkk&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imdpkk&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imdpkk&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imdpkk&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:deepvishwakarma.2114@gmail.com">
@@ -100,15 +100,7 @@
 
 ---
 
-## 👀 Visitor Counter
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Imdpkk&label=Profile%20Views&color=blueviolet&style=flat" alt="visitor badge"/>
-</p>
-
----
-
-<p align="center">
-  🌟 Thanks for visiting my GitHub! Let’s build cool things and grow together 💡<br>
-  🚀 Keep Learning. Keep Building.
+  🌟 Thanks for visiting!  
+  🚀 Learning every day. Building step by step.
 </p>
